@@ -11,7 +11,7 @@ A [Micro](https://github.com/zyedidia/micro) theme for the ambitious.
 ```bash
 mkdir -p ~/.config/micro/colorschemes
 cd ~/.config/micro/colorschemes
-curl -sLo https://github.com/embark-theme/micro/blob/main/embark-tc.micro
+curl -O https://raw.githubusercontent.com/embark-theme/micro/refs/heads/main/embark-tc.micro
 ```
 
 2. Ensure you have [True Color](https://github.com/zyedidia/micro/blob/master/runtime/help/colors.md) enabled for Micro:
